@@ -23,3 +23,4 @@ Feature: US001_Amazon_Sayfasinda_Urun_Aratma
     Given kullanici_amazon_sayfasina_gider
     And arama_kutusunda_sql_aratir
     And sayfayi_kapatir
+
